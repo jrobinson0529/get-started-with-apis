@@ -8,6 +8,10 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 - [Download Postman](https://www.postman.com/)
 
 
+## Quick Projects
+- [Joke Generator](./joke-generator.md)
+
+
 ## Contributors
 - [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
 - Aja Washington
