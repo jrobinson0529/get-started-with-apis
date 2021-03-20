@@ -10,6 +10,7 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 
 ## Quick Projects
 - [Joke Generator](./joke-generator.md)
+- [Lyrics Generator](./lyrics.md)
 
 
 ## Contributors
