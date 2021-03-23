@@ -4,6 +4,7 @@
 - Create an API Key (NOTE: it will take an hour or so to allow the key to process, so during that time, you can review the docs)
 - Make sure you save your key in your `.env` file so that it is not available all over the place.
 - [Check out the wireframe](https://www.figma.com/file/oqMAbpsQjJfoX5QkbHKTcD/Open-Weather?node-id=0%3A1)
+- Sample 5 Day Weather Call in Postman: `https://www.getpostman.com/collections/1b9c951eb7db4a94475f`
 - HINT: To get the ICON from the response, use the following: `http://openweathermap.org/img/wn/{INSERT_WEATHER_ICON}@2x.png`
 
 This is a sample response (Take note of the shape of the object):
