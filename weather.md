@@ -10,6 +10,10 @@
     - Click "Import"
 - HINT: To get the ICON from the response, use the following: `http://openweathermap.org/img/wn/{INSERT_WEATHER_ICON}@2x.png`
 
+## CHALLENGE
+- Allow a user to login to the app using Firebase Auth with Google
+- Allow the user to save their locations so that when the app loads, all the weather for the locations they submitted give the current weather.
+
 This is a sample response (Take note of the shape of the object):
 
 ```json
