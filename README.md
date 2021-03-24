@@ -14,7 +14,3 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 - [Open Weather API](./weather.md)
 - [Lord of the Rings](./lotr.md)
 - [The Movie Database](./moviedb-api.md)
-
-
-## Contributors
-- [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
