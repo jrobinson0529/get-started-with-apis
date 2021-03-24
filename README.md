@@ -12,6 +12,7 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 - [Joke Generator](./joke-generator.md)
 - [Lyrics Generator](./lyrics.md)
 - [Open Weather API](./weather.md)
+- [Lord of the Rings](./lotr.md)
 
 
 ## Contributors
