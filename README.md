@@ -6,14 +6,14 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 
 ## Get Started
 - [Download Postman](https://www.postman.com/)
-
+- Start a new project using the [Webpack Template](https://github.com/nss-evening-cohort-14/webpack-template)
+- Go ahead and create an account and an API Key on the Open Weather API because it takes a couple of hours for the API Key to kick in and doing so will mean the key will be ready when you are ready.
 
 ## Quick Projects
-- [Joke Generator](./joke-generator.md)
-- [Lyrics Generator](./lyrics.md)
+Start with the first project and work down the list. DO NOT SKIP!
 
-
-## Contributors
-- [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
-- Aja Washington
-- Trinity Christiana
+1. [Joke Generator](./joke-generator.md)
+1. [Lyrics Generator](./lyrics.md)
+1. [Open Weather API](./weather.md)
+1. [Lord of the Rings](./lotr.md)
+1. [The Movie Database](./moviedb-api.md)
