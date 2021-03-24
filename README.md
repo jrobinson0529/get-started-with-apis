@@ -13,6 +13,7 @@ This repo is a few handpicked API lessons you can do to get familiar with some s
 - [Lyrics Generator](./lyrics.md)
 - [Open Weather API](./weather.md)
 - [Lord of the Rings](./lotr.md)
+- [The Movie Database](./moviedb-api.md)
 
 
 ## Contributors
