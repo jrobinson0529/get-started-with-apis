@@ -2,6 +2,7 @@
 
 - [Get an API Key](https://the-one-api.dev/)
 - [Check out the Docs](https://the-one-api.dev/documentation#4)
+- [Check out sending an Axios request with an authorization header](https://flaviocopes.com/axios-send-authorization-header/)
 
 ## TODO
 - Create cards for all the characters
