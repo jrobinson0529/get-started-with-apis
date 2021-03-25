@@ -5,6 +5,7 @@
 - [Check out sending an Axios request with an authorization header](https://flaviocopes.com/axios-send-authorization-header/)
 
 ## TODO
+- Make sure to put your API Key in your `.env` file!
 - Create cards for all the characters
     - When you click the card, flip it and show a quote from that character.
 - List all the movies on cards with the following info
